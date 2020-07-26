@@ -1,0 +1,19 @@
+html {
+    background-color: #A36F52;
+}
+#title {
+  text-align: center;
+  color: #20303A;
+}
+#description {
+  text-align: center;
+  color: #20303A;
+}                                                                      
+.form-group {
+    margin: 0 auto 1.25rem auto;
+    padding: 0.25rem;
+}
+#submit {
+    background: #7C4C55;
+  color: #D09F4A;
+}
